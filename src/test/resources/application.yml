@@ -1,0 +1,50 @@
+dataset:
+  recipes:
+    - id: 5cd3da0398b53b17e075ae56
+      type: soup
+      labels: [vegan, spicy]
+      origin: Spain
+      title: 'Veggie2 Quinoa Burgers'
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3da2398b53b17e075ae57
+      type: soup
+      labels: [vegan, spicy]
+      origin: Spain
+      title: 'Veggie3 Burgers'
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3da3098b53b17e075ae58
+      type: soup
+      labels: [vegan, spicy]
+      origin: Spain
+      title: 'Veggie10 chees'
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3da3a98b53b17e075ae59
+      type: soup
+      labels: [vegan, spicy]
+      origin: Spain
+      title: ' chees'
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3da8798b53b17e075ae5a
+      type: fish
+      labels: [sugarfree, spicy]
+      origin: France
+      title: ' lacks'
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3da8d98b53b17e075ae5b
+      type: fish
+      labels: [sugarfree, spicy]
+      origin: France
+      title: ' tona'
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3daa198b53b17e075ae5c
+      type: fish
+      labels: [sugarfree, spicy]
+      origin: usa
+      title: tona
+      ingredients: [{name: 'cup quinoa', amount: 5}]
+    - id: 5cd3db4098b53b17e075ae5d
+      type: fish
+      labels: [sugarfree, spicy]
+      origin: usa
+      title: tona2
+      ingredients: [{name: 'cup quinoa', amount: 5}]
